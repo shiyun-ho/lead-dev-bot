@@ -25,3 +25,35 @@ __pycache__/
 
 # Virtual environment
 venv/
+
+# Python packaging and build artifacts
+/lead_dev_bot.egg-info/
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Dependency files (you might want to keep requirements.lock)
+uv.lock
+
+# Environment files (keep .env.sample but ignore others)
+.env*
+!.env.sample
+
+# pytest and coverage
+.coverage
+.pytest_cache/
+htmlcov/
+
+# macOS directory metadata
+.DS_Store
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Debug files
+*.log
+debug.py
+
+# Byte-compiled files for specific Python versions
+*.py[cod]
