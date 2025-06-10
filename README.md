@@ -17,7 +17,6 @@ So I did what any sane dev would do:
 
 > 🧠 "I could code it myself."  
 > 🤖 And thus, Lead Dev Bot was born.
-> 🧠 "Maybe I shouldn't think at all."
 
 ### What Is It?
 
@@ -86,7 +85,7 @@ Would’ve called it *Jared*... but don’t want a C&D letter 🙃
 3. Feedback will be posted as comments on the labeled issues.
 
 ### Loom Demo
-Check out this [Loom video](#) to see the bot in action! (Replace `#` with the Loom video link.)
+Check out this [Loom video](#) to see the bot in action!
 
 ## Example Feedback
 Here’s an example of the feedback you can expect:
